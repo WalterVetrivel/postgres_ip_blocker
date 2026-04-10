@@ -1,0 +1,5 @@
+# ip_blocker extension
+comment = 'Blocks malicious IP addresses'
+default_version = '1.0'
+module_pathname = '$libdir/ip_blocker'
+relocatable = true
